@@ -1,0 +1,50 @@
+02.05.2020 17:28:06;VStabi Start -- LOGO 700
+02.05.2020 17:28:08 Good;Scorpion ESC detected 
+02.05.2020 17:28:09 Warn;Scorpion Input Signal
+02.05.2020 17:28:09 Good;Reset Reason: Power On
+02.05.2020 17:28:09 Info;Bank 1 Loaded
+02.05.2020 17:28:09 Info;Bank 4 Loaded
+02.05.2020 17:28:09 Warn;IMU Sensor Z Axis hangs
+02.05.2020 17:28:09 Good;Motorswitch Motor Off
+02.05.2020 17:28:10 Good;Motorswitch Idle Bailout
+02.05.2020 17:28:10 Info;Calibration Finished
+02.05.2020 17:28:11 Info;Initializing with virtual Z Axis
+02.05.2020 17:28:30 Good;/battery/bt_3
+02.05.2020 17:28:30 Good;Battery selected manually: Gens Ace 12S 5000 45C 2
+02.05.2020 17:31:02 Good;Motorswitch Idle Bailout
+02.05.2020 17:31:02 Info;Bank 1 Loaded
+02.05.2020 17:31:02 Info;Bank 4 Loaded
+02.05.2020 17:31:02 Info;Governor Active
+02.05.2020 17:31:03 Good;Motorswitch Motor On
+02.05.2020 17:31:05 Warn;Low RPM: 188 RPM
+02.05.2020 17:31:13 Info;Raised Vibration Level
+02.05.2020 17:31:22 Info;Raised Vibration Level
+02.05.2020 17:31:24 Info;Bank 3 Loaded
+02.05.2020 17:31:33 Warn;High Vibration Level
+02.05.2020 17:31:43 Info;Raised Vibration Level
+02.05.2020 17:31:53 Info;Raised Vibration Level
+02.05.2020 17:32:03 Info;Raised Vibration Level
+02.05.2020 17:32:13 Warn;High Vibration Level
+02.05.2020 17:32:18 Error;Aileron Sensor Value out of Range
+02.05.2020 17:32:23 Error;Aileron Sensor Value out of Range
+02.05.2020 17:32:23 Info;Raised Vibration Level
+02.05.2020 17:32:33 Warn;High Vibration Level
+02.05.2020 17:32:44 Info;Raised Vibration Level
+02.05.2020 17:32:54 Info;Raised Vibration Level
+02.05.2020 17:32:57 Error;Aileron Sensor Value out of Range
+02.05.2020 17:33:00 Error;Aileron Sensor Value out of Range
+02.05.2020 17:33:04 Warn;High Vibration Level
+02.05.2020 17:33:14 Info;Raised Vibration Level
+02.05.2020 17:33:24 Warn;High Vibration Level
+02.05.2020 17:33:34 Info;Raised Vibration Level
+02.05.2020 17:33:44 Warn;High Vibration Level
+02.05.2020 17:34:01 Info;Bank 2 Loaded
+02.05.2020 17:34:02 Info;Bank 1 Loaded
+02.05.2020 17:34:05 Info;Raised Vibration Level
+02.05.2020 17:34:07 Info;Bank 4 Loaded
+02.05.2020 17:34:07 Info;Off - ESC - Umin:41.4V Imax:187.8A Temp:60°
+02.05.2020 17:34:07 Info;Governor Stop
+02.05.2020 17:34:08 Good;Motorswitch Motor Off
+02.05.2020 17:34:15 Info;Raised Vibration Level
+02.05.2020 17:35:35 Warn;Scorpion BEC Voltage
+02.05.2020 17:35:43;VBar Logfile End -- 02.05.2020 -- 17:35:43

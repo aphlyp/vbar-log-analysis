@@ -1,0 +1,113 @@
+30.04.2020 14:40:57;VStabi Start -- kraken   1
+30.04.2020 14:40:59 Good;Scorpion ESC detected 
+30.04.2020 14:40:59 Good;Reset Reason: Power On
+30.04.2020 14:41:00 Info;Bank 2 Loaded
+30.04.2020 14:41:00 Good;Motorswitch Idle Bailout
+30.04.2020 14:41:01 Info;Calibration Finished
+30.04.2020 14:41:13 Good;/battery/bt_3
+30.04.2020 14:41:13 Good;Battery selected manually: New Batt 3
+30.04.2020 14:44:34 Info;Bank 1 Loaded
+30.04.2020 14:44:36 Info;Governor Active
+30.04.2020 14:44:36 Good;Motorswitch Motor On
+30.04.2020 14:44:44 Info;Raised Vibration Level
+30.04.2020 14:44:54 Error;Extreme Vibration Level
+30.04.2020 14:45:04 Error;Extreme Vibration Level
+30.04.2020 14:45:14 Info;Raised Vibration Level
+30.04.2020 14:45:24 Info;Raised Vibration Level
+30.04.2020 14:45:35 Warn;High Vibration Level
+30.04.2020 14:45:45 Info;Raised Vibration Level
+30.04.2020 14:45:54 Info;Rescue Start
+30.04.2020 14:45:55 Error;Extreme Vibration Level
+30.04.2020 14:45:55 Info;Rescue End
+30.04.2020 14:45:56 Info;Rescue Pilot Oversteer
+30.04.2020 14:46:05 Warn;High Vibration Level
+30.04.2020 14:46:15 Warn;High Vibration Level
+30.04.2020 14:46:18 Info;Bank 2 Loaded
+30.04.2020 14:46:25 Warn;High Vibration Level
+30.04.2020 14:46:35 Info;Raised Vibration Level
+30.04.2020 14:46:45 Warn;High Vibration Level
+30.04.2020 14:46:56 Warn;High Vibration Level
+30.04.2020 14:47:06 Warn;High Vibration Level
+30.04.2020 14:47:16 Warn;High Vibration Level
+30.04.2020 14:47:22 Info;Governor Full Throttle
+30.04.2020 14:47:22 Info;Governor Full Throttle
+30.04.2020 14:47:25 Info;Governor Full Throttle
+30.04.2020 14:47:25 Info;Governor Full Throttle
+30.04.2020 14:47:25 Info;Governor Full Throttle
+30.04.2020 14:47:26 Info;Governor Full Throttle
+30.04.2020 14:47:26 Info;Governor Full Throttle
+30.04.2020 14:47:26 Info;Raised Vibration Level
+30.04.2020 14:47:26 Info;Governor Full Throttle
+30.04.2020 14:47:27 Info;Governor Full Throttle
+30.04.2020 14:47:27 Info;Governor Full Throttle
+30.04.2020 14:47:27 Info;Governor Full Throttle
+30.04.2020 14:47:27 Info;Governor Full Throttle
+30.04.2020 14:47:28 Info;Governor Full Throttle
+30.04.2020 14:47:28 Info;Governor Full Throttle
+30.04.2020 14:47:29 Info;Governor Full Throttle
+30.04.2020 14:47:29 Info;Governor Full Throttle
+30.04.2020 14:47:29 Info;Governor Full Throttle
+30.04.2020 14:47:30 Info;Governor Full Throttle
+30.04.2020 14:47:30 Info;Governor Full Throttle
+30.04.2020 14:47:30 Info;Governor Full Throttle
+30.04.2020 14:47:31 Info;Governor Full Throttle
+30.04.2020 14:47:31 Info;Governor Full Throttle
+30.04.2020 14:47:32 Info;Governor Full Throttle
+30.04.2020 14:47:32 Info;Governor Full Throttle
+30.04.2020 14:47:33 Info;Governor Full Throttle
+30.04.2020 14:47:33 Info;Governor Full Throttle
+30.04.2020 14:47:34 Info;Governor Full Throttle
+30.04.2020 14:47:34 Info;Governor Full Throttle
+30.04.2020 14:47:34 Info;Governor Full Throttle
+30.04.2020 14:47:34 Info;Governor Full Throttle
+30.04.2020 14:47:35 Info;Governor Full Throttle
+30.04.2020 14:47:35 Info;Governor Full Throttle
+30.04.2020 14:47:35 Info;Governor Full Throttle
+30.04.2020 14:47:36 Info;Governor Full Throttle
+30.04.2020 14:47:36 Info;Governor Full Throttle
+30.04.2020 14:47:36 Info;Governor Full Throttle
+30.04.2020 14:47:37 Info;Governor Full Throttle
+30.04.2020 14:47:37 Info;Governor Full Throttle
+30.04.2020 14:47:37 Info;Governor Full Throttle
+30.04.2020 14:47:38 Info;Governor Full Throttle
+30.04.2020 14:47:38 Info;Governor Full Throttle
+30.04.2020 14:47:38 Info;Governor Full Throttle
+30.04.2020 14:47:39 Info;Governor Full Throttle
+30.04.2020 14:47:39 Info;Governor Full Throttle
+30.04.2020 14:47:39 Info;Governor Full Throttle
+30.04.2020 14:47:40 Info;Governor Full Throttle
+30.04.2020 14:47:40 Info;Governor Full Throttle
+30.04.2020 14:47:46 Error;Extreme Vibration Level
+30.04.2020 14:47:55 Info;Governor Idle
+30.04.2020 14:47:55 Good;Motorswitch Idle Bailout
+30.04.2020 14:47:56 Error;Extreme Vibration Level
+30.04.2020 14:48:01 Info;Off - ESC - Umin:39.4V Imax:180.9A Temp:64°
+30.04.2020 14:48:01 Info;Governor Stop
+30.04.2020 14:48:01 Good;Motorswitch Motor Off
+30.04.2020 14:48:02 Good;Motorswitch Idle Bailout
+30.04.2020 14:48:19 Info;Bank 1 Loaded
+30.04.2020 14:48:20 Info;Governor Active
+30.04.2020 14:48:20 Good;Motorswitch Motor On
+30.04.2020 14:48:20 Info;Governor is at Low Throttle Limit
+30.04.2020 14:48:38 Info;Bank 2 Loaded
+30.04.2020 14:48:41 Info;Bank 3 Loaded
+30.04.2020 14:48:43 Info;Bank 1 Loaded
+30.04.2020 14:48:45 Info;Bank 2 Loaded
+30.04.2020 14:48:45 Info;Governor Idle
+30.04.2020 14:48:45 Good;Motorswitch Idle Bailout
+30.04.2020 14:49:10 Info;Governor Active
+30.04.2020 14:49:11 Good;Motorswitch Motor On
+30.04.2020 14:49:11 Info;Governor is at Low Throttle Limit
+30.04.2020 14:49:11 Info;Governor is at Low Throttle Limit
+30.04.2020 14:49:11 Info;Governor is at Low Throttle Limit
+30.04.2020 14:49:11 Info;Governor is at Low Throttle Limit
+30.04.2020 14:49:17 Warn;High Vibration Level
+30.04.2020 14:49:22 Info;Off - ESC - Umin:44.7V Imax:12.2A Temp:60°
+30.04.2020 14:49:22 Info;Governor Idle
+30.04.2020 14:49:23 Good;Motorswitch Idle Bailout
+30.04.2020 14:49:23 Info;Governor Stop
+30.04.2020 14:49:23 Good;Motorswitch Motor Off
+30.04.2020 14:49:23 Good;Motorswitch Idle Bailout
+30.04.2020 14:49:25 Good;Motorswitch Motor Off
+30.04.2020 14:49:26 Good;Motorswitch Idle Bailout
+30.04.2020 14:50:33;VBar Logfile End -- 30.04.2020 -- 14:50:33
